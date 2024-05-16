@@ -22,7 +22,10 @@ Task completed:
 -Chose which data providers supply answers
 -Created color contours pertaining to the coverage analysis in the 2D and #D Graphics windows 
 
-SnapFrame: 
+SnapFrame:
+
+
+
 ![STK_coverage_SnapFrame2](https://github.com/Jakayla-R/STK-Scenario-Files/assets/90592223/0113eb3e-43e8-434b-b286-ce1c4f351c21)
 
 
