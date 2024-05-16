@@ -1,8 +1,16 @@
 # STK-Project-Files
 Simulation models and scripts for trajectory analysis of spacecraft using STK and Python/MATLAB integration
 
-STK Analysis Workbench: 
+STK Analysis Workbench: Used a combination of STK Pro and STK's Analysis Workbench capability to create vectors, custom angles, calculations, time components and temporal constraints to determine when the sensor can safely track the satellite.
+Task Completed: 
+-Vector Geometry Tool 
+-Time Tool
+-Calculation Tool 
 
+SnapFrame: 
+
+
+![STK_Anaylsis_Workbench_SnapFrame](https://github.com/Jakayla-R/STK-Scenario-Files/assets/90592223/49a10b35-13ed-44c7-8e30-c4ea91be2a8b)
 
 STK Coverage: In this simulation we use STK to model Earth observing payloads attached to sensors located in 3 different orbits. 
 Task completed: 
