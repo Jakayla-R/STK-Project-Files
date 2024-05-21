@@ -7,10 +7,7 @@ Task Completed:
 -Time Tool
 -Calculation Tool 
 
-SnapFrame: 
 
-
-![STK_Anaylsis_Workbench_SnapFrame](https://github.com/Jakayla-R/STK-Scenario-Files/assets/90592223/49a10b35-13ed-44c7-8e30-c4ea91be2a8b)
 
 **STK Coverage:** In this simulation we use STK to model Earth observing payloads attached to sensors located in 3 different orbits. 
 Task completed: 
@@ -39,5 +36,6 @@ Task Completed:
 SnapFrame: 
 
 
-![STK_Astrogator_SnapFrame2](https://github.com/Jakayla-R/STK-Scenario-Files/assets/90592223/66a246b6-8964-4695-bdf3-2a14d1446b08)
+![STK_Astrogator_SnapFrame2](https://github.com/Jakayla-R/STK-Scenario-Files/assets/90592223/66a246b6-8964-4695-bdf3-2a14d1446b08)![STK_Astrogator_SnapFrame](https://github.com/Jakayla-R/STK-Scenario-Files/assets/90592223/882457c2-79ec-4a67-99f4-322efa16952e)
+
 
